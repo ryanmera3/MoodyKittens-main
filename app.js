@@ -56,7 +56,7 @@ function loadKittens() {
  * Draw all of the kittens to the kittens element
  * Grabs the moody-kittens element
  * Creates kittenTemplate variable as an empty string
- * For each kitten in local storage appends the template with all the required HTML
+ * For each kitten in local storage appends the template with all the required HTML 
  */
 function drawKittens() {
   loadKittens()
